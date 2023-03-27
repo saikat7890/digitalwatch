@@ -25,4 +25,4 @@ date_label.pack()
 
 update()
 window.mainloop()
-..
+.
